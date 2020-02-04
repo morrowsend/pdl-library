@@ -10,7 +10,7 @@ The manual is updated more or less in sync with the environment...working princi
 
 ## sample 
 
-You'll need to fix the paths to the packages scribble.js and the p5js libraries (/sample/index.html) and set your own fonts(/sample/pdlWorkZone.js), as well as fontface URLs in the css(/__support/PDL.css). The css supports the physics markup language, as a way of displaying editable technical text for physics within diagrams (using the DOM).
+You'll need to fix the paths to the p5js libraries (/sample/index.html) and set your own fonts(/sample/pdlWorkZone.js), as well as fontface URLs in the css(/__support/PDL.css). The css supports the physics markup language, as a way of displaying editable technical text for physics within diagrams, and the display of DOM elements.
 
 ## a rationale
 

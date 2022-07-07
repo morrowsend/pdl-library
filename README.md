@@ -6,7 +6,7 @@ A physics language for developing static and interactive diagrams on the web
 
 ## update: to celeebrate release on P5js
 
-The manual is now a Wiki, here.
+The manual is now a Wiki, [here](https://github.com/phywand/pdl-library/wiki).
 
 THe latest refactoring is pdlComponents.js.
  

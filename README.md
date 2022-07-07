@@ -3,6 +3,12 @@
 The physics diagram language, based on p5js.
 
 A physics language for developing static and interactive diagrams on the web
+
+## update: to celeebrate release on P5js
+
+The manual is now a Wiki, here.
+
+THe latest refactoring is pdlComponents.js.
  
 ##
 
